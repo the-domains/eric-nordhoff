@@ -1,0 +1,28 @@
+name: Eric Nordhoff
+favicon: null
+layout_spectrum: 0.4429583658929914
+typography_spectrum: 0.4969805716536939
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6488990625366569
+  lightness: 0.7183373724110425
+  saturation: 0.5377786171156913
+  rhythmicContrast: 0.10964348306879401
+purpose: []
